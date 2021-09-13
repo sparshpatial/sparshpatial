@@ -6,13 +6,9 @@
 - 👯 I’m looking forward to work on various <b>open source projects</b>.
 - 📫 How to reach me: <b> patial.sparsh5@gmail.com</b>
 - ⚡ <b>Lofi beats</b> helps me alot while programming.
-
-### Connect with me:
-
-[<img align="left" alt="sparshpatial | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sparshpatial  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+</br>
+<hr style="border:1px white"> </hr>
+</br>
 
 ### Languages and Tools:
 
@@ -26,10 +22,18 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
 <img align="left" alt="R Language" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/r/r.png" />
+</br>
+<hr style="border:1px white"> </hr>
+</br>
 
+### Connect with me:
 
+[<img align="left" alt="sparshpatial | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sparshpatial  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
+<br>
+<hr style="border:1px white"> </hr>
 <br>
 
 <p align="center">
