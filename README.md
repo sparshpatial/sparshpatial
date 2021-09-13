@@ -25,8 +25,6 @@
 <br>
 <br>
 <hr style="border:1px white"> </hr>
-<br>
-
 
 ### Connect with me:
 
