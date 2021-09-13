@@ -23,8 +23,7 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
 <img align="left" alt="R Language" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/r/r.png" />
 
-<br>
-<hr style="border:1px white"> </hr>
+
 
 
 ### Connect with me:
@@ -33,7 +32,7 @@
 [<img align="left" alt="sparshpatial  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-
+<br>
 <hr style="border:1px white"> </hr>
 <br>
 
