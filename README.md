@@ -28,9 +28,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sparshpatial | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sparshpatial  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<img src="https://www.linkedin.com/in/sparsh-patial-79b1041b8/" height="25px" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/tejas-trivedi9/">
+  <img align="left" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:patial.sparsh5@gmail.com ">
+  <img align="left" width="98px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_sparsh.patial_/">
+  <img align="left" width="135px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <br>
 <hr style="border:1px white"> </hr>
@@ -45,6 +52,5 @@
 
 
 
-[instagram]: https://www.instagram.com/_sparsh.patial_/
-[linkedin]: https://www.linkedin.com/in/sparsh-patial-79b1041b8/
+
 
