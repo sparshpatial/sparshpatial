@@ -1,11 +1,11 @@
 ### <h1 align ="center"> Hey,there 👋</h1>
 
 
-- 🔭 I’m currently working with Python.
-- 🌱 I’m currently learning Machine Learning & Deep Learning.
-- 👯 I’m looking forward to work on various open source projects.
-- 📫 How to reach me: patial.sparsh5@gmail.com
-- ⚡ Lofi beats helps me alot while programming.
+- 🔭 I’m currently working with <h3>Python</h3>.
+- 🌱 I’m currently learning <h3>Machine Learning & Deep Learning</h3>.
+- 👯 I’m looking forward to work on various <h3>open source projects</h3>.
+- 📫 How to reach me: <h3> patial.sparsh5@gmail.com</h3>
+- ⚡ <h3>Lofi beats</h3> helps me alot while programming.
 
 ### Connect with me:
 
