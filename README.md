@@ -22,6 +22,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
 <img align="left" alt="R Language" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/r/r.png" />
+<img align="left" alt="WordPess" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
 <br>
 <br>
 <hr style="border:1px white"> </hr>
