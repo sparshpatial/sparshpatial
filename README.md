@@ -28,7 +28,7 @@
 
 ### Connect with me:
 
-<img src="https://www.linkedin.com/in/sparsh-patial-79b1041b8/" height="25px" style="max-width:100%;">
+
 <a href="https://www.linkedin.com/in/sparsh-patial-79b1041b8/">
   <img align="left" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
