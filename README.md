@@ -6,9 +6,10 @@
 
 - 🔭 I’m currently working with <b>Python</b>.
 - 🌱 I’m currently learning <b>Machine Learning & Deep Learning</b>.
-- 👯 I’m looking forward to work on various <b>open source projects</b>.
+- 💬 I’m looking forward to work on various <b>open source projects</b>.
+- 👯 Lets discuss some  great ideas and make it present live .
 - 📫 How to reach me: <b> patial.sparsh5@gmail.com</b>
-- ⚡ <b>Lofi beats</b> helps me alot while programming.
+- ⚡ <b>Lofi beats</b> are best while programming.
 
 <hr style="border:1px white"> </hr>
 
