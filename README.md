@@ -14,9 +14,8 @@
 - 📫 How to reach me: <b> patial.sparsh5@gmail.com</b>
 - ⚡ <b>Lofi beats</b> are best while programming.
 
+<br>
 <hr style="border:1px white"> </hr>
-<br>
-<br>
 
 ### Languages and Tools:
 
