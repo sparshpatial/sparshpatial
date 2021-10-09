@@ -34,8 +34,6 @@
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br>
-<br>
 <hr style="border:1px white"> </hr>
 
 ### Connect with me:
