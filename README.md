@@ -4,13 +4,13 @@
 ###### <h1 align ="center"> Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 👋</h1>
 
 <a target="_blank">
-  <img align="right" height="240" width="400" alt="GIF" src="https://github.com/sparshpatial/sparshpatial/blob/main/git.gif">
+  <img align="right" height="210" width="350" alt="GIF" src="https://github.com/sparshpatial/sparshpatial/blob/main/git.gif">
 </a>
 
 - 🔭 I’m currently working with <b>Python</b>.
 - 🌱 I’m currently learning <b>Machine Learning & Deep Learning</b>.
-- 💬 I’m looking forward to work on various <b>open source projects</b>.
-- 👯 Lets discuss some  great ideas and make it present live .
+- 💬 I’m looking forward to work on various <b> Machine Learning & open source projects</b> .
+- 👯 Lets discuss some  great ideas and make them  come live .
 - 📫 How to reach me: <b> patial.sparsh5@gmail.com</b>
 - ⚡ <b>Lofi beats</b> are best while programming.
 
