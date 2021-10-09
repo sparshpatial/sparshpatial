@@ -1,7 +1,7 @@
-###### print("Hey,<coders/>👋")
+###### print("Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;👋")
 ###### Intializing....
 ###### Output:
-###### <h1 align ="center"> Hey,<coders/> 👋</h1>
+###### <h1 align ="center"> Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 👋</h1>
 
 <a target="_blank">
   <img align="right" height="240" width="400" alt="GIF" src="https://github.com/sparshpatial/sparshpatial/blob/main/git.gif">
