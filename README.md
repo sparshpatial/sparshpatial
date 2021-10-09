@@ -6,7 +6,7 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sparshpatial/sparshpatial/blob/main/git.gif">
 </a>
-<br>
+
 - 🔭 I’m currently working with <b>Python</b>.
 - 🌱 I’m currently learning <b>Machine Learning & Deep Learning</b>.
 - 💬 I’m looking forward to work on various <b>open source projects</b>.
@@ -15,9 +15,9 @@
 - ⚡ <b>Lofi beats</b> are best while programming.
 
 <hr style="border:1px white"> </hr>
+<br>
+<br>
 
-<br>
-<br>
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
