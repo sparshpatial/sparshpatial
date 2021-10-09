@@ -3,7 +3,9 @@
 ###### Output:
 ###### <h1 align ="center"> Hey,there 👋</h1>
 
-
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="">
+</a>
 - 🔭 I’m currently working with <b>Python</b>.
 - 🌱 I’m currently learning <b>Machine Learning & Deep Learning</b>.
 - 💬 I’m looking forward to work on various <b>open source projects</b>.
