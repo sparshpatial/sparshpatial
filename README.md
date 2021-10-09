@@ -15,6 +15,8 @@
 - ⚡ <b>Lofi beats</b> are best while programming.
 
 <br>
+<br>
+<br>
 <hr style="border:1px white"> </hr>
 
 ### Languages and Tools:
