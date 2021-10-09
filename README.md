@@ -21,18 +21,19 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="R Language" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/r/r.png" />
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dart/dart.png" />
-<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
-<img align="left" alt="WordPess" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
-<img align="left" alt="Git" width=30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Programming-092E20?style=for-the-badge&logo=C&logoColor=green)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/C++-43B02A?style=for-the-badge&logo=C++&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=Java&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Language-FF4B4B?style=for-the-badge&logo=R&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Dart-232F3E?style=for-the-badge&logo=Dart&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/HTML-430098?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/CSS-2088FF?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Wordpress-E95420?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <br>
 <br>
 <hr style="border:1px white"> </hr>
