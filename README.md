@@ -4,7 +4,7 @@
 ###### <h1 align ="center"> Hey,there 👋</h1>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sparshpatial/sparshpatial/blob/main/git.gif">
 </a>
 - 🔭 I’m currently working with <b>Python</b>.
 - 🌱 I’m currently learning <b>Machine Learning & Deep Learning</b>.
