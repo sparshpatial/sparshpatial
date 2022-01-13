@@ -7,7 +7,7 @@
   <img align="right" height="210" width="350" alt="GIF" src="https://github.com/sparshpatial/sparshpatial/blob/main/git.gif">
 </a>
 
-- 🔭 I’m currently working with <b>Python</b>.
+- 🔭 I’m currently working with <b>Keras & Tensorflow </b>.
 - 🌱 I’m currently learning <b>Machine Learning & Deep Learning</b>.
 - 💬 I’m looking forward to work on the <b> Machine Learning & Open Source projects</b> .
 - 👯 Lets discuss some  great ideas and make them  come live .
