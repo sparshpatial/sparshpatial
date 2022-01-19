@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with <b>Keras & Tensorflow </b>.
 - 🌱 I’m currently learning <b>Machine Learning & Deep Learning</b>.
-- 💬 I’m looking forward to work on the <b> Machine Learning & Open Source projects</b> .
+- 💬 I’m looking for help with <b> Internships & Open Source projects</b> .
 - 👯 Lets discuss some  great ideas and make them  come live .
 - 📫 How to reach me: <b> patial.sparsh5@gmail.com</b>
 - ⚡ <b>Lofi beats</b> are best while programming.
