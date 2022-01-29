@@ -4,7 +4,7 @@
 ###### <h1 align ="center"> Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 👋</h1>
 
 <a target="_blank">
-  <img align="right" height="210" width="350" alt="GIF" src="https://github.com/sparshpatial/sparshpatial/blob/main/git.gif">
+  <img align="right" height="210" width="350" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 </a>
 
 - 🔭 I’m currently working with <b>Keras & Tensorflow </b>.
