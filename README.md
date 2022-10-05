@@ -59,9 +59,10 @@
 </a>
 </p>
 </br>  
-<div align="center">
+<p align="center">
  ![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true) 
-</div>
+</p>
+ <br>
  
 <div align="right">
 ![](https://komarev.com/ghpvc/?username=sparshpatial)
