@@ -61,7 +61,7 @@
 </br>
 <div align="right">
   
-![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true)
+<div align="center">![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true) </div>
 
 ![](https://komarev.com/ghpvc/?username=sparshpatial)
 
