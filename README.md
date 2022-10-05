@@ -60,6 +60,7 @@
 </p>
 </br>
 <div align="right">
+https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=sparshpatial)
 
