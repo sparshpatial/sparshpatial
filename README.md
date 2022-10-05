@@ -60,14 +60,11 @@
 </p>
 </br>  
 <p align="center">
- ![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true) 
+<a href="https://github.com/sparshpatial">
+<img height-"175em" src="https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true" />
 </p>
- <br>
+<br>
  
-<div align="right">
-![](https://komarev.com/ghpvc/?username=sparshpatial)
-
-</div>
                                                                                                                              
                                                                                                                               
                                                                                                                            
