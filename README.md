@@ -59,10 +59,12 @@
 </a>
 </p>
 </br>
-<div align="right">
-  
-<div align="center">![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true) </div>
 
+  
+<div align="center">
+ ![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true) </div>
+ 
+<div align="right">
 ![](https://komarev.com/ghpvc/?username=sparshpatial)
 
 </div>
