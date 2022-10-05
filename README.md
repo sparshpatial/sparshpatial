@@ -58,11 +58,10 @@
 <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=sparshpatial&theme=algolia" alt="sparshpatial"/>
 </a>
 </p>
-</br>
-
-  
+</br>  
 <div align="center">
- ![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true) </div>
+ ![](https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true) 
+</div>
  
 <div align="right">
 ![](https://komarev.com/ghpvc/?username=sparshpatial)
