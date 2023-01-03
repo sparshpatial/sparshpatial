@@ -56,7 +56,9 @@
 ### Stats:
 
 <p align="center">
-
+<a href="https://github.com/sparshpatial">
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=sparshpatial&theme=algolia" alt="sparshpatial"/>
+</a>
 </p>
 </br>  
 <p align="center">
