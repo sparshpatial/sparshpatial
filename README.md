@@ -16,7 +16,11 @@
 
 <br>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshpatial&theme=gruvbox" alt="sparshpatial" /></a> </p>
+<hr style="border:1px white"> </hr>
+<a href="https://github.com/sparshpatial/github-profile-trophy"><h3>🏆 Github Profile Trophy</h3></a>
+<a href="https://github.com/sparshpatial/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sparshpatial&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 <br>
 <br>
 <hr style="border:1px white"> </hr>
