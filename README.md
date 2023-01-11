@@ -15,7 +15,8 @@
 - ⚡ <b>Lofi beats</b> are best while programming.
 
 <br>
- [[trophy](https://github-profile-trophy.vercel.app/?username=sparshpatial)](https://github.com/sparshpatial/github-profile-trophy)
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshpatial&theme=gruvbox" alt="sparshpatial" /></a> </p>
 <br>
 <br>
 <hr style="border:1px white"> </hr>
