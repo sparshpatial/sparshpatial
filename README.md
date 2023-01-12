@@ -14,7 +14,7 @@
 - 📫 How to reach me: <b> patial.sparsh5@gmail.com</b>
 - ⚡ <b>Lofi beats</b> are best while programming.
 
-<br>
+
 <br>
 <hr style="border:1px white"> </hr>
 <a href="https://github.com/sparshpatial/github-profile-trophy"><h3>🏆 Github Profile Trophy</h3></a>
