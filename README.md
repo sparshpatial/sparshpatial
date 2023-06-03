@@ -67,11 +67,7 @@
 
 </p>
 </br>  
-<p align="center">
-<a href="https://github.com/sparshpatial">
-<img height-"175em" src="https://github-readme-stats.vercel.app/api?username=sparshpatial&theme=aura&show_icons=true" />
-</p>
-<br>
+
  
                                                                                                                              
                                                                                                                               
