@@ -7,7 +7,7 @@
   <img align="right" height="210" width="350" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 </a>
 
-- 🔭 I’m currently working with <b>Java & Python </b>.
+- 🔭 I’m currently working with <b>C++ & Python </b>.
 - 🌱 I’m currently learning <b>Machine Learning & NLP</b>.
 - 💬 I’m looking for help with <b> Internships & Open Source projects</b> .
 - 👯 Lets discuss some  great ideas and make them  come live .
